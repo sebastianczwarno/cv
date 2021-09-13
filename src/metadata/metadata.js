@@ -7,16 +7,20 @@ module.exports = {
   },
   skills: [
     ['C#', '++++'],
-    ['Java', '+++'],
-    ['EntityFramework', '+++'],
+    ['Dotnet', '+++'],
+    ['EFCore', '+++'],
+    ['Java', '++++'],
     ['Hibernate', '++'],
     ['SpringBoot', '++'],
+    ['Maven', '++'],
     ['Javascript', '++'],
     ['Typescript', '++'],
     ['Linux', '++++'],
     ['Bash', '++'],
     ['Git', '++++'],
-    ['Azure', '++']
+    ['Azure', '++'],
+    ['Sdkman', '+++'],
+    ['Nvm', '++']
   ],
   experience: [
     {
