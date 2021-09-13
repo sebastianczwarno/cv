@@ -28,7 +28,7 @@ module.exports = {
       position: 'Senior specialist',
       period: '2019 - Present',
       badges: ['C#', 'Dotnet', 'javascript', 'NHibernate'],
-      contents: `Development and maintenance of Danish Civil Courts system minretssag.dk. Platform is available for all citizens`
+      contents: `Development and maintenance of Danish Civil Courts system minretssag.dk. Platform is available for all citizens.`
     }
   ],
   additionalExperience: [
