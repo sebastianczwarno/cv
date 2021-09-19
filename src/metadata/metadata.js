@@ -32,8 +32,8 @@ module.exports = {
       company: 'Netcompany',
       position: 'Senior specialist',
       period: 'Jul 2018 - Dec 2018',
-      badges: ['Java', 'jOOQ', 'Docker'],
-      contents: `Development of internal database migration tool.`
+      badges: ['Java', 'jOOQ', 'Docker', 'gradle'],
+      contents: `Design and development of internal database migration tool based on SpringBoot.`
     },
     {
       company: 'Netcompany',
