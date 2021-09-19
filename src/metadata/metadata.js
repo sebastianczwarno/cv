@@ -39,7 +39,7 @@ module.exports = {
       company: 'Netcompany',
       position: 'Senior consultant',
       period: '2017 - Jul 2018',
-      badges: ['C#', '.Net', 'Ef6', 'REDIS', 'SOLR'],
+      badges: ['C#', '.Net', 'Ef6', 'REDIS', 'SOLR', 'Angular', 'Typescript'],
       contents: `DUBU 3.0 (Digitalisering - Udsatte Børn og Unge) project. Developing from scratch custom architecture following best practices such as SOLID, Onion Architecture and Inversion of Control. Introduction of OIOSAML secutiry layer into the solution using REDIS as cache. Integration of SOLR into the solution.`
     },
     {
