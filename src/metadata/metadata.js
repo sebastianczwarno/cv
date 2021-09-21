@@ -26,13 +26,13 @@ module.exports = {
       position: 'Senior specialist',
       period: '2019 - Present',
       badges: ['C#', '.Net', 'NHibernate', 'javascript', 'Angular.js', 'WPF', 'WCF', 'Azure'],
-      contents: `Development and maintenance of Danish Civil Courts system minretssag.dk. Platform is available for all citizens.`
+      contents: `Development and maintenance of Danish Civil Courts system <a href="https://minretssag.dk/">minretssag.dk</a>. Platform is available for all citizens.`
     },
     {
       company: 'Netcompany',
       position: 'Senior specialist',
       period: 'Sep 2018 - Dec 2018',
-      badges: ['Java', 'jOOQ', 'Docker', 'gradle'],
+      badges: ['Java', 'SpringBoot', 'jOOQ', 'Docker', 'gradle'],
       contents: `Design and development of internal database migration tool based on SpringBoot.`
     },
     {
