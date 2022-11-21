@@ -22,23 +22,30 @@ module.exports = {
   ],
   experience: [
     {
-      company: 'Netcompany',
-      position: 'Senior specialist',
-      period: '2019 - Present',
-      badges: ['C#', '.Net', 'NHibernate', 'javascript', 'Angular.js', 'WPF', 'WCF', 'Azure'],
-      contents: `Development and maintenance of Danish Civil Courts system <a href="https://minretssag.dk/">minretssag.dk</a>. Platform is available for all citizens.`
+      company: 'DevBridge/Cognizant',
+      position: 'Back-end Lead Engineer',
+      period: '2022 January - November',
+      badges: ['C#', 'DotNet 6', 'EntityFramework Core', 'SQL', 'Docker', 'WSL', 'AWS', 'Angular'],
+      contents: `Development of transactional system for managing of financial assets for investment bank.`
     },
     {
       company: 'Netcompany',
       position: 'Senior specialist',
-      period: 'Sep 2018 - Dec 2018',
-      badges: ['Java', 'SpringBoot', 'jOOQ', 'Docker', 'gradle'],
+      period: '2019 - 2021 Dec',
+      badges: ['C#', '.Net', 'NHibernate', 'javascript', 'Angular.js', 'WPF', 'WCF', 'Azure'],
+      contents: `Development and maintenance of minretssag.dk Danish Civil Courts system. Platform is available for all citizens.`
+    },
+    {
+      company: 'Netcompany',
+      position: 'Senior specialist',
+      period: '2018 Sep - Dec',
+      badges: ['Java', 'SpringBoot', 'JOOQ', 'Docker', 'gradle'],
       contents: `Design and development of internal database migration tool based on SpringBoot.`
     },
     {
       company: 'Netcompany',
       position: 'Senior consultant',
-      period: 'Jul 2018 - Sep 2018',
+      period: '2018 Jul - Sep',
       badges: ['C#', '.Net'],
       contents: `Desing and development of internal test framework.`
     },
