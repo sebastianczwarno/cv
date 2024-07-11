@@ -22,11 +22,25 @@ module.exports = {
   ],
   experience: [
     {
-      company: 'DevBridge/Cognizant',
+      company: 'Visa',
+      position: 'Back-end Lead Engineer',
+      period: '2023 June - now',
+      badges: ['Java', 'Springboot', 'JDBC', 'Actor Model', 'MQ', 'SQL', 'Docker', 'Kubernetes', 'Jenkins'],
+      contents: `Development of AURA cybersecurity token system for credit cards payments.`
+    },
+    {
+      company: 'Northern Trust',
+      position: 'Back-end Engineer',
+      period: '2022 December - 2023 May',
+      badges: ['Java', 'Springboot', 'JOOQ', 'Kafka', 'React', 'Docker', 'Kubernetes', 'Azure'],
+      contents: `Development of Nexus (nexus.northerntrust.com) finantial assets management platform.`
+    },
+    {
+      company: 'Prudential',
       position: 'Back-end Lead Engineer',
       period: '2022 January - November',
       badges: ['C#', 'DotNet 6', 'EntityFramework Core', 'SQL', 'Docker', 'WSL', 'AWS', 'Angular'],
-      contents: `Development of transactional system for managing of financial assets for investment bank.`
+      contents: `Development of transactional system for managing of real estates.`
     },
     {
       company: 'Netcompany',
